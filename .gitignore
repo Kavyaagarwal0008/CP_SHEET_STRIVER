@@ -1,0 +1,11 @@
+# Ignore Windows executables
+*.exe
+
+# (optional) ignore common build outputs
+*.out
+*.o
+*.obj
+a.exe
+build/
+bin/
+*.exe
